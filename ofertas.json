@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T20:13:58.375Z",
+  "updatedAt": "2026-07-27T20:15:28.356Z",
   "source": "marktguru.de",
   "items": [
     {
@@ -298,101 +298,101 @@
     },
     {
       "supermarket": "Edeka",
-      "name": "Ganzer Lachs",
-      "price": 1.79,
+      "name": "Vierkant-Reibe",
+      "price": 7.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Lambrusco Emilia Frizzante",
+      "price": 2.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Schaschlikspieße",
+      "price": 1.99,
       "category": "carnes",
-      "valid": "21.06. - 27.06."
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Saucen",
-      "price": 1.69,
-      "category": "condimentos",
-      "valid": "21.06. - 27.06."
+      "name": "Alkoholfreier Aperitif",
+      "price": 4.99,
+      "category": "lacteos",
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Serrano Schinken Reserva",
-      "price": 2.29,
+      "name": "Feuchte Toilettentücher",
+      "price": 1.39,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Spaßglas",
+      "price": 7.99,
+      "category": "conservas",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Maishähnchen",
+      "price": 8.99,
       "category": "carnes",
-      "valid": "21.06. - 27.06."
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Schweine-Minutenrückensteak",
-      "price": 3.99,
-      "category": "carnes",
-      "valid": "21.06. - 27.06."
+      "name": "Espresso Kaffeekonzentrat",
+      "price": 4.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Marinierte Schweine-Nackensteaks",
-      "price": 0.77,
-      "category": "carnes",
-      "valid": "21.06. - 27.06."
+      "name": "Teigwaren",
+      "price": 0.88,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Burgergurken",
-      "price": 0.99,
+      "name": "Bunter Strauß",
+      "price": 7.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Bio Mini-Rispentomaten",
+      "price": 2.99,
       "category": "verduras",
-      "valid": "21.06. - 27.06."
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Irish Angus Burger",
-      "price": 4.44,
+      "name": "Gold Kaffee klassisch",
+      "price": 2.79,
       "category": "otros",
-      "valid": "21.06. - 27.06."
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Rheinische Schinkenwurst",
-      "price": 1.29,
-      "category": "carnes",
-      "valid": "21.06. - 27.06."
+      "name": "Lauchzwiebeln",
+      "price": 0.59,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
     },
     {
       "supermarket": "Edeka",
-      "name": "Thunfisch-Creme",
+      "name": "Bio Rispentomaten",
       "price": 2.49,
-      "category": "carnes",
-      "valid": "21.06. - 27.06."
-    },
-    {
-      "supermarket": "Edeka",
-      "name": "Mini-Griller",
-      "price": 3.49,
-      "category": "otros",
-      "valid": "21.06. - 27.06."
-    },
-    {
-      "supermarket": "Edeka",
-      "name": "Burger Buns",
-      "price": 1.49,
-      "category": "otros",
-      "valid": "21.06. - 27.06."
-    },
-    {
-      "supermarket": "Edeka",
-      "name": "Baguette",
-      "price": 1.11,
-      "category": "panaderia",
-      "valid": "21.06. - 27.06."
-    },
-    {
-      "supermarket": "Edeka",
-      "name": "Rinderbratengulasch",
-      "price": 6.99,
-      "category": "otros",
-      "valid": "21.06. - 27.06."
-    },
-    {
-      "supermarket": "Edeka",
-      "name": "Bratwurst",
-      "price": 5.99,
-      "category": "carnes",
-      "valid": "21.06. - 27.06."
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
     }
   ]
 }
