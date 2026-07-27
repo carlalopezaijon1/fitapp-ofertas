@@ -1,0 +1,398 @@
+{
+  "updatedAt": "2026-07-27T20:13:58.375Z",
+  "source": "marktguru.de",
+  "items": [
+    {
+      "supermarket": "Rewe",
+      "name": "Pflegedusche Creme Soft",
+      "price": 1.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Frischkäsezubereitung mit Radieschen",
+      "price": 1.79,
+      "category": "lacteos",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Fruchtaufstrich Samt",
+      "price": 1.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Delikatess Krautsalat",
+      "price": 1.79,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Milder Skyr Drink",
+      "price": 1.49,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Bonifaz",
+      "price": 1.69,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Croissants Double x 4",
+      "price": 1.99,
+      "category": "panaderia",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Bio-Rispentomaten",
+      "price": 2.49,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Blattspinat",
+      "price": 1.49,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Starterpaket",
+      "price": 4.98,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Schokoriegel",
+      "price": 2.22,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Mix Tafeltrauben",
+      "price": 2.59,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Mikrowelle",
+      "price": 49.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Rewe",
+      "name": "Bio-Speisekartoffeln",
+      "price": 2.22,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Sonnencrusti",
+      "price": 0.98,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Couronne Feigen-Walnuss",
+      "price": 1.49,
+      "category": "panaderia",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Erdnüsse XXL",
+      "price": 3.49,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Nuts Royal XXL",
+      "price": 6.49,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Walnuss­kerne XXL",
+      "price": 5.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "E-Bike Classic",
+      "price": 899,
+      "category": "otros",
+      "valid": "16.07. - 02.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Trolley-Reisetasche",
+      "price": 12.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Sahne Heringfilets XXL",
+      "price": 2.79,
+      "category": "carnes",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Plattpfirsiche",
+      "price": 1.79,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Maasdamer",
+      "price": 1.59,
+      "category": "lacteos",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Brot-­Aufstrich",
+      "price": 1.89,
+      "category": "panaderia",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Dry Gin",
+      "price": 27.99,
+      "category": "otros",
+      "valid": "25.07. - 08.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Unsere Besten Maultaschen",
+      "price": 2.49,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Lidl",
+      "name": "Snack Becher",
+      "price": 0.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Caipirinha",
+      "price": 1.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Uralt Weinbrand",
+      "price": 9.99,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Bio-Wiener Würstchen Klassik",
+      "price": 3.19,
+      "category": "carnes",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Bio-Gewürzgurken",
+      "price": 2.35,
+      "category": "condimentos",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Bio-Steinofen-Sauerteigkruste",
+      "price": 1.99,
+      "category": "panaderia",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "H-Schoko Drink",
+      "price": 0.85,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Laktosefreie H-Schlagsahne",
+      "price": 0.99,
+      "category": "lacteos",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Fettarmer Joghurt",
+      "price": 0.39,
+      "category": "lacteos",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Joghurt",
+      "price": 0.89,
+      "category": "lacteos",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Trauben",
+      "price": 1.29,
+      "category": "verduras",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Schweine-Nackensteaks",
+      "price": 4.79,
+      "category": "carnes",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Fleischspieße",
+      "price": 3.99,
+      "category": "carnes",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Lasagneblätter vegan",
+      "price": 1,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Aldi",
+      "name": "Wraps vegan",
+      "price": 1,
+      "category": "otros",
+      "valid": "26.07. - 01.08."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Ganzer Lachs",
+      "price": 1.79,
+      "category": "carnes",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Saucen",
+      "price": 1.69,
+      "category": "condimentos",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Serrano Schinken Reserva",
+      "price": 2.29,
+      "category": "carnes",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Schweine-Minutenrückensteak",
+      "price": 3.99,
+      "category": "carnes",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Marinierte Schweine-Nackensteaks",
+      "price": 0.77,
+      "category": "carnes",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Burgergurken",
+      "price": 0.99,
+      "category": "verduras",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Irish Angus Burger",
+      "price": 4.44,
+      "category": "otros",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Rheinische Schinkenwurst",
+      "price": 1.29,
+      "category": "carnes",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Thunfisch-Creme",
+      "price": 2.49,
+      "category": "carnes",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Mini-Griller",
+      "price": 3.49,
+      "category": "otros",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Burger Buns",
+      "price": 1.49,
+      "category": "otros",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Baguette",
+      "price": 1.11,
+      "category": "panaderia",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Rinderbratengulasch",
+      "price": 6.99,
+      "category": "otros",
+      "valid": "21.06. - 27.06."
+    },
+    {
+      "supermarket": "Edeka",
+      "name": "Bratwurst",
+      "price": 5.99,
+      "category": "carnes",
+      "valid": "21.06. - 27.06."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+name: Actualizar ofertas semanales
+
+on:
+  schedule:
+    # Lunes 06:00 hora de Alemania (05:00 UTC en horario de invierno,
+    # 04:00 UTC en verano — se deja fijo en 05:00 UTC, un margen de una hora
+    # en verano no afecta a una tarea semanal).
+    - cron: '0 5 * * 1'
+  workflow_dispatch: {} # permite lanzarlo a mano desde GitHub para probar
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Ejecutar scraper
+        run: node scrape.mjs
+
+      - name: Publicar ofertas.json si cambió
+        run: |
+          if git diff --quiet ofertas.json; then
+            echo "Sin cambios en las ofertas."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ofertas.json
+          git commit -m "Actualizar ofertas $(date -u +%Y-%m-%d)"
+          git push

@@ -1,0 +1,24 @@
+{
+  "name": "fitapp-ofertas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlalopezaijon1/fitapp-ofertas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carlalopezaijon1/fitapp-ofertas/issues"
+  },
+  "homepage": "https://github.com/carlalopezaijon1/fitapp-ofertas#readme",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}
