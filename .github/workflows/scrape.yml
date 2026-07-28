@@ -24,6 +24,12 @@ jobs:
       - run: npm install
 
       - name: Ejecutar scraper
+        # Las ofertas de folleto son regionales: el código postal decide qué
+        # cadenas salen y a qué precio. Se define como variable del repo
+        # (Settings > Secrets and variables > Actions > Variables) para poder
+        # cambiarlo sin tocar el código.
+        env:
+          FITAPP_ZIP: ${{ vars.FITAPP_ZIP }}
         run: node scrape.mjs
 
       - name: Publicar ofertas.json si cambió
